@@ -199,5 +199,6 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-cache:2.2.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.stoyanr:evictor:1.0.0" level="project" />
     <orderEntry type="library" name="Maven: joda-time:joda-time:2.10.5" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.62" level="project" />
   </component>
 </module>
