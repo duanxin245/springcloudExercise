@@ -16,4 +16,6 @@ public interface TeacherClient {
     String show();
     @GetMapping("/teacher/showMsg")
     String showMsg(String msg);
+    @GetMapping("/teacher/showMsg")
+    String showMsg(String msg,String name);
 }
