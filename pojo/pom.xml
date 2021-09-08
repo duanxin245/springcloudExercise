@@ -11,8 +11,6 @@
     <artifactId>pojo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>pojo</name>
-
-
     <build>
         <plugins>
             <plugin>
